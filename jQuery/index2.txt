@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Displaying Sitemap</title>
+</head>
+<body>
+<div id = "data">
+<ul>
+<li> NODO INICIAL: http://www.google.com</li>
+</ul>
+<script src = "js/jquery-3.3.1.min.js" type="text/javascript"></script>
+<script src = "js/vakata-jstree-0097fab/dist/jstree.min.js"></script>
+<script src = "js/script.js"></script>
+</body>
+</html>
